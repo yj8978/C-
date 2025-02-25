@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F8186B0A-F7CA-44D2-B7AD-16738687BEFF}|RegistrationConsole\\RegistrationConsole.csproj|c:\\users\\yogesh jirel\\desktop\\c#\\registrationconsole\\registrationconsole\\resgistratiion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8186B0A-F7CA-44D2-B7AD-16738687BEFF}|RegistrationConsole\\RegistrationConsole.csproj|solutionrelative:registrationconsole\\resgistratiion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8186B0A-F7CA-44D2-B7AD-16738687BEFF}|RegistrationConsole\\RegistrationConsole.csproj|C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\registrationconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8186B0A-F7CA-44D2-B7AD-16738687BEFF}|RegistrationConsole\\RegistrationConsole.csproj|solutionrelative:registrationconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8186B0A-F7CA-44D2-B7AD-16738687BEFF}|RegistrationConsole\\RegistrationConsole.csproj|C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\registrationconsole\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F8186B0A-F7CA-44D2-B7AD-16738687BEFF}|RegistrationConsole\\RegistrationConsole.csproj|solutionrelative:registrationconsole\\model1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resgistratiion.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\RegistrationConsole\\Resgistratiion.cs",
+              "RelativeDocumentMoniker": "RegistrationConsole\\Resgistratiion.cs",
+              "ToolTip": "C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\RegistrationConsole\\Resgistratiion.cs",
+              "RelativeToolTip": "RegistrationConsole\\Resgistratiion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:32:47.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Model1.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\RegistrationConsole\\Model1.cs",
+              "RelativeDocumentMoniker": "RegistrationConsole\\Model1.cs",
+              "ToolTip": "C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\RegistrationConsole\\Model1.cs",
+              "RelativeToolTip": "RegistrationConsole\\Model1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:26:16.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\RegistrationConsole\\Program.cs",
+              "RelativeDocumentMoniker": "RegistrationConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\YOGESH JIREL\\Desktop\\C#\\RegistrationConsole\\RegistrationConsole\\Program.cs",
+              "RelativeToolTip": "RegistrationConsole\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T09:28:49.859Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

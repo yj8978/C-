@@ -1,0 +1,12 @@
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\bin\Debug\RegistrationConsole.exe.config
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\bin\Debug\RegistrationConsole.exe
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\bin\Debug\RegistrationConsole.pdb
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\bin\Debug\EntityFramework.dll
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\bin\Debug\EntityFramework.xml
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\obj\Debug\RegistrationConsole.csproj.AssemblyReference.cache
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\obj\Debug\RegistrationConsole.csproj.CoreCompileInputs.cache
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\obj\Debug\Registra.8AD0E85B.Up2Date
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\obj\Debug\RegistrationConsole.exe
+C:\Users\YOGESH JIREL\source\repos\RegistrationConsole\RegistrationConsole\obj\Debug\RegistrationConsole.pdb
