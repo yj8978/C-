@@ -1,0 +1,34 @@
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\appsettings.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\MVC Demonstration.staticwebassets.runtime.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\MVC Demonstration.staticwebassets.endpoints.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\MVC Demonstration.exe
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\MVC Demonstration.deps.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\MVC Demonstration.runtimeconfig.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\MVC Demonstration.dll
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\bin\Debug\net8.0\MVC Demonstration.pdb
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.AssemblyInfoInputs.cache
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.AssemblyInfo.cs
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.csproj.CoreCompileInputs.cache
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.RazorAssemblyInfo.cache
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.RazorAssemblyInfo.cs
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\scopedcss\bundle\MVC Demonstration.styles.css
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\scopedcss\projectbundle\MVC Demonstration.bundle.scp.css
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets\msbuild.MVC Demonstration.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets\msbuild.MVC Demonstration.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets\msbuild.build.MVC Demonstration.props
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MVC Demonstration.props
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MVC Demonstration.props
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.dll
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\refint\MVC Demonstration.dll
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.pdb
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\MVC Demonstration.genruntimeconfig.cache
+C:\Users\YOGESH JIREL\source\repos\MVC Demonstration\MVC Demonstration\obj\Debug\net8.0\ref\MVC Demonstration.dll
